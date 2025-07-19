@@ -2,9 +2,11 @@
 NextSteps Hacks 2025 Project
 
 Notes
-FPS is on top-left of the overlay for testing purposes.
-UI is not shown in the video because it's very simple and currently separate from the filter due to challenges in updating the overlay.
+=
+The FPS counter is displayed at the top-left corner of the overlay for testing and performance monitoring.
+The UI is not shown in the demo video because it is currently simple and separated from the filter due to ongoing work on integrating overlay updates. Connecting the UI to the overlay is straightforward and planned for future updates.
 
-The repository file structure:
-OLD_VERSION - contains the old version of the overlay before the project.
-NEXTSTEP_HACKS - updated version during the week of NextStep Hacks 2025
+Repository file structure:
+=
+OLD_VERSION - contains the overlay version prior to the NextStep Hacks 2025 week.
+NEXTSTEP_HACKS - contains the updated version developed during NextStep Hacks 2025.
