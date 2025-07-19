@@ -8,6 +8,5 @@ The UI is not shown in the demo video because it is currently simple and separat
 
 **Repository file structure:**
 
-OLD_VERSION - contains the overlay version prior to the NextStep Hacks 2025 week.
-
-NEXTSTEP_HACKS - contains the updated version developed during NextStep Hacks 2025.
+- OLD_VERSION - contains the overlay version prior to the NextStep Hacks 2025 week.
+- NEXTSTEP_HACKS - contains the updated version developed during NextStep Hacks 2025.
